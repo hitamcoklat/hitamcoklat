@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | PHP | C++
+- 💻 &nbsp; Python | PHP | Javascript
 - 🌐 &nbsp; HTML | CSS | JavaScript | VueJS | Node.js | ReactJS | React Native
 - 🛢 &nbsp; MySQL | MongoDB | Vuex | Redux
 - 🔧 &nbsp; Git | Markdown | Selenium
